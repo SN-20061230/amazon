@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@uiw/react-back-to-top": "^1.2.2",
+    "react-icons": "^4.8.0",
+    "react-use-cart": "^1.13.0"
+  }
+}
